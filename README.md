@@ -1,9 +1,3 @@
-# Bird Sim
-
-A Manim animation of a flock of birds (or a school of fish) that moves by three local rules. It is based on:
-
-> Couzin, Krause, James, Ruxton & Franks (2002). _Collective Memory and Spatial Sorting in Animal Groups._ J. Theor. Biol. 218, 1–11. doi:[10.1006/jtbi.2002.3065](https://doi.org/10.1006/jtbi.2002.3065)
-
 ## Model
 
 Each animal reacts only to the neighbours it can see:
@@ -31,3 +25,9 @@ The `birds` preset gives a moving parallel flock. The `fish` preset gives a rota
 ## Run
 
 Set `species`, `n_birds` and `seed` in `BirdSimulation`. Example videos are in `Animations/`.
+
+# Bird Sim
+
+A Manim animation of a flock of birds (or a school of fish) that moves by three local rules. It is based on:
+
+> Couzin, Krause, James, Ruxton & Franks (2002). _Collective Memory and Spatial Sorting in Animal Groups._ J. Theor. Biol. 218, 1–11. doi:[10.1006/jtbi.2002.3065](https://doi.org/10.1006/jtbi.2002.3065)
